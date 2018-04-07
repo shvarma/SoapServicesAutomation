@@ -1,6 +1,6 @@
 # SoapServicesAutomation
 
-SOAP with Attachments API for Java
+SOAP with Attachments API for Java (SAAJ)
 
 Calling a sample soap webservice with java 
 
