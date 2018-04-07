@@ -3,7 +3,7 @@ package com.services;
 import org.junit.Test;
 import javax.xml.soap.*;
 
-public class AppTest {
+public class ServicesWithSAAJ {
 
 	public static void main(String args[]) {
 
