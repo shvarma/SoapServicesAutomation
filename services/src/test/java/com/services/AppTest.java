@@ -7,7 +7,7 @@ public class AppTest {
 
 	public static void main(String args[]) {
 
-		// SOAP with Attachments API for Java
+		// SOAP with Attachments API for Java (SAAJ)
 		String soapEndpointUrl = "http://www.dneonline.com/calculator.asmx";
 		String soapAction = "http://tempuri.org/Add";
 
